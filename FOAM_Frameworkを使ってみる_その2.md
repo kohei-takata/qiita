@@ -46,4 +46,4 @@ FOAMはメタプログラミングフレームワークです。とても宣言�
 以上翻訳
 
 なんかだんだん全容がつかめてきたような気がします。
-次回の記事では、(やっと)[チュートリアル](http://foam-framework.github.io/foam/tutorial/0-intro/)を翻訳しながら進めていきたいと思います。
+[次回の記事](http://qiita.com/tako-black/items/9e2caa70f79f5aa50811)では、(やっと)[チュートリアル](http://foam-framework.github.io/foam/tutorial/0-intro/)を翻訳しながら進めていきたいと思います。
